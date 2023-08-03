@@ -81,7 +81,8 @@ body {
 
 .procontainer {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    gap: 40px;
     padding-top: 10px;
     flex-wrap: wrap;
 }
